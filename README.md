@@ -1,7 +1,7 @@
 <img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Imagen de fondo" src="https://media.licdn.com/dms/image/D4E16AQH9vhCJ4FqBEA/profile-displaybackgroundimage-shrink_350_1400/0/1671902802577?e=1678320000&amp;v=beta&amp;t=KsVJke1mw3G0DjU0mKawrk9z5HsJ5_OxbY4nQ3kDfT0" style="left:0px;top:0px;">          
 <h1 align="center">Hello 👋, Mi nombre es Joseph Anderson</h1>
-<h3 align="center">Profesional de la Escuela Profesional de ingeniería de sistemas con una excelente formación académica. Claridad conceptual y habilidad para emprender y liderar actividades, trabajar en equipo, alcanzar metas propuestas y mantener un excelente ambiente laboral y dispuesto a aprender cada vez más. Con alto grado de responsabilidad, proactiva, con buen manejo de relaciones interpersonales y con interés por la actualización profesional y continuo proceso de aprendizaje.</h3>
+<h3 align=" justify">Profesional de la Escuela Profesional de ingeniería de sistemas con una excelente formación académica. Claridad conceptual y habilidad para emprender y liderar actividades, trabajar en equipo, alcanzar metas propuestas y mantener un excelente ambiente laboral y dispuesto a aprender cada vez más. Con alto grado de responsabilidad, proactiva, con buen manejo de relaciones interpersonales y con interés por la actualización profesional y continuo proceso de aprendizaje.</h3>
 <h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://codepen.io/makubexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="makubexdev" height="30" width="40" /></a>
