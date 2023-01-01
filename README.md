@@ -1,8 +1,9 @@
 <img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Imagen de fondo" src="https://media.licdn.com/dms/image/D4E16AQH9vhCJ4FqBEA/profile-displaybackgroundimage-shrink_350_1400/0/1671902802577?e=1678320000&amp;v=beta&amp;t=KsVJke1mw3G0DjU0mKawrk9z5HsJ5_OxbY4nQ3kDfT0" style="left:0px;top:0px;">          
 <h1 align="center">Hello 👋, Mi nombre es Joseph Anderson</h1>
-<h3 align="center">Profesional de la Escuela Profesional de ingeniería de sistemas con una excelente formación académica.</h3>
 <img align="right" alt="Codificación" width="400" src="https://graffica.info/wp-content/uploads/2015/12/1-5DAQEDPv_5opTqr-y6yEag.gif">
+<h3 align="center">Profesional de la Escuela Profesional de ingeniería de sistemas con una excelente formación académica.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makubexdev&label=Profile%20views&color=0e75b6&style=flat" alt="makubexdev" /> </p>
 <p align="left"> <a href="https://twitter.com/thechrisacevedo" target="blank"><img src="https://img.shields.io/twitter/follow/thechrisacevedo?logo=twitter&style=for-the-badge" alt="thechrisacevedo" /></a> </p>
 <h3 align="left">Contactame:</h3>
