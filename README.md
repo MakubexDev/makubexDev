@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/d069971a0af4d9e393066dc77ced000cff23a1f6bbfbb9e7704a870192a926ca/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f66726565636f646563616d702f776964652d736f6369616c2d62616e6e65722e706e67" alt="Banner social de FreeCodeCamp" data-canonical-src="https://s3.amazonaws.com/freecodecamp/wide-social-banner.png" style="max-width: 100%;">          
 <h1 align="center">Hello 👋, Mi nombre es Joseph Anderson</h1>
 <h3 align=" justify">Profesional de la Escuela Profesional de ingeniería de sistemas con una excelente formación académica. Claridad conceptual y habilidad para emprender y liderar actividades, trabajar en equipo, alcanzar metas propuestas y mantener un excelente ambiente laboral y dispuesto a aprender cada vez más. Con alto grado de responsabilidad, proactiva, con buen manejo de relaciones interpersonales y con interés por la actualización profesional y continuo proceso de aprendizaje.</h3>
-🌐 Principales fuentes de aprendizaje <br>
+<h3 align="left">🌐 Principales fuentes de aprendizaje</h3>
 <p align="left"><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge" />&nbsp;<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />&nbsp;<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></p>
 
 <h3 align="left">Contactame:</h3>
