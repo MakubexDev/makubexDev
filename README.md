@@ -1,8 +1,9 @@
 
 <img src="https://github.com/MakubexDev/makubexDev/blob/main/freeCodeCampAnder.jpg" alt="Design and Development" style="max-width: 100%;">
        
-<h1 align="center">Hi👋, My name is Joseph Anderson</h1>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Anderson!;" />
+</h1>
 
 <h3 align=" justify">I am a professional graduated from the School of Systems Engineering, with a solid academic background and a passion for continuous learning. I have a clear and conceptual mind, which allows me to tackle challenges with creativity and efficiency. I consider myself proactive and results-oriented, with skills to lead teams, achieve goals, and maintain a positive work environment.</h3>
 <p align="left"><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge" />&nbsp;<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />&nbsp;<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></p>
