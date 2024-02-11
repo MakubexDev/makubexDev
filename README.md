@@ -4,10 +4,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Anderson!;" />
 </h1>
+<h3 align="left"> Sobre mi:</h3>
+🙋‍♂️ ¡Hola! Soy Joseph Anderson, egresado de la carrera Ingeniería de Sistemas en la Universidad Nacional Hermilio Valdizan y Estudiante de Arquitectura. Con interés en el desarrollo y Metodologia BIM.
+<br>
+👷‍♂️ Motivado para enfrentar nuevos desafíos, poder aportar todo mi empeño y con muchas ganas de aprender.
+<br>
+🧑‍🏫 Me capacito de manera continua para estar al día en la parte Teorico-Practico y en el uso de softwares de Modelado.
 <!-- GIF -->
 <img align="right" src="https://github.com/MakubexDev/makubexDev/blob/main/Github.png" />
-
-<h3>Professional graduated from the School of Systems Engineering, with a solid academic background and a passion for continuous learning. I have a clear and conceptual mind, which allows me to tackle challenges with creativity and efficiency. I consider myself proactive and results-oriented, with skills to lead teams, achieve goals, and maintain a positive work environment.</h3>
 <p align="left"><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge" />&nbsp;<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />&nbsp;<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></p>
 <h3 align="left">Contactame:</h3>
 <p align="left">
